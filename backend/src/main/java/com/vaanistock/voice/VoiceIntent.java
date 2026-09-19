@@ -1,0 +1,16 @@
+package com.vaanistock.voice;
+
+public enum VoiceIntent {
+    ADD_STOCK,
+    REMOVE_STOCK,
+    CHECK_STOCK,
+    CHECK_CATEGORY,
+    LOW_STOCK,
+    FAST_MOVING,
+    SLOW_MOVING,
+    NO_RECENT_SALES,
+    INVENTORY_SUMMARY,
+    REORDER_RECOMMENDATION,
+    SEARCH_PRODUCT,
+    UNKNOWN
+}
