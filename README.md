@@ -1,4 +1,4 @@
-# VaaniStock (వాణీస్టాక్)
+# VyapaariVoice
 ### Voice-First Multilingual Inventory Management & Stock Intelligence System for Wholesale and Retail Shops
 
 **VaaniStock** is a production-quality full-stack web application designed for Indian small and medium wholesale distributors, traders, kirana stores, and retailers. It allows shop owners to manage products, categories, stock, sales/stock movements, low-stock alerts, transaction history, and sales analytics through both a clean responsive web dashboard and a voice-first multilingual assistant supporting **Telugu**, **Hindi**, and **English** (including natural mixed-language/code-mixed speech like *"Rice 20 bags vachayi"* or *"5 bags rice ammamu"*).
