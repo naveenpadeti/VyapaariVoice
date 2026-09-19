@@ -1,7 +1,0 @@
-# Local environment secrets
-.env
-
-# Build outputs and dependencies
-backend/target/
-frontend/node_modules/
-frontend/dist/

@@ -1,0 +1,4 @@
+com/vaanistock/inventory/InventoryServiceTest.class
+com/vaanistock/VaaniStockApplicationTests.class
+com/vaanistock/voice/IntentExtractorTest.class
+com/vaanistock/recommendation/RecommendationServiceTest.class
